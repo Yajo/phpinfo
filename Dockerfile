@@ -1,4 +1,4 @@
-FROM php:5.5-apache
+FROM php:apache
 
 COPY . /var/www/html/
 
